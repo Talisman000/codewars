@@ -10,6 +10,10 @@ IsAvailableLanguage() {
         echo "true"
         return 0
         ;;
+    "git")
+        echo "true"
+        return 0
+        ;;
     esac
     echo "false"
 }
@@ -39,6 +43,11 @@ CreateProject() {
         dotnet new console
         touch Kata.cs
         ;;
+    "git")
+        git add .
+        git commit -m "Update solution of $1"
+        git push
+        ;;
     esac
 }
 
@@ -52,7 +61,7 @@ main() {
     done
 
     while :; do
-        echo -n "Language(cpp/cs):"
+        echo -n "Language(cpp(C++)/cs(C#)/git(push solution)):"
         read language
         if [ "$language" = "" ]; then
             continue
