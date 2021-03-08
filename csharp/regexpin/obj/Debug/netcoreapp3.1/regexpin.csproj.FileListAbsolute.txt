@@ -1,0 +1,13 @@
+/home/talisman/workspace/codewars/csharp/regexpin/bin/Debug/netcoreapp3.1/regexpin
+/home/talisman/workspace/codewars/csharp/regexpin/bin/Debug/netcoreapp3.1/regexpin.deps.json
+/home/talisman/workspace/codewars/csharp/regexpin/bin/Debug/netcoreapp3.1/regexpin.runtimeconfig.json
+/home/talisman/workspace/codewars/csharp/regexpin/bin/Debug/netcoreapp3.1/regexpin.runtimeconfig.dev.json
+/home/talisman/workspace/codewars/csharp/regexpin/bin/Debug/netcoreapp3.1/regexpin.dll
+/home/talisman/workspace/codewars/csharp/regexpin/bin/Debug/netcoreapp3.1/regexpin.pdb
+/home/talisman/workspace/codewars/csharp/regexpin/obj/Debug/netcoreapp3.1/regexpin.csprojAssemblyReference.cache
+/home/talisman/workspace/codewars/csharp/regexpin/obj/Debug/netcoreapp3.1/regexpin.AssemblyInfoInputs.cache
+/home/talisman/workspace/codewars/csharp/regexpin/obj/Debug/netcoreapp3.1/regexpin.AssemblyInfo.cs
+/home/talisman/workspace/codewars/csharp/regexpin/obj/Debug/netcoreapp3.1/regexpin.csproj.CoreCompileInputs.cache
+/home/talisman/workspace/codewars/csharp/regexpin/obj/Debug/netcoreapp3.1/regexpin.dll
+/home/talisman/workspace/codewars/csharp/regexpin/obj/Debug/netcoreapp3.1/regexpin.pdb
+/home/talisman/workspace/codewars/csharp/regexpin/obj/Debug/netcoreapp3.1/regexpin.genruntimeconfig.cache
