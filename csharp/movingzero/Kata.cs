@@ -8,8 +8,8 @@ public class Kata
 {
     public static int[] MoveZeroes(int[] arr)
     {
-        int[] zero = arr.Where(a => a == 0).ToArray();
-        int[] notZero = arr.Where(a => a != 0).ToArray();
+        var zero = arr.Where(a => a == 0);
+        var notZero = arr.Where(a => a != 0);
         return notZero.Concat(zero).ToArray();
     }
 }
